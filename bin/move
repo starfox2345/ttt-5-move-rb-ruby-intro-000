@@ -13,4 +13,4 @@ index = input.to_i
 #index << (input.to_i - 1)
 
 move(board, index, character = "X")
-board[index] = character
+#board[index] = character
