@@ -14,3 +14,5 @@ index = input.to_i
 
 move(board, index, character = "X")
 board[index] = character
+
+display_board(board)
